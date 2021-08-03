@@ -1,12 +1,10 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jossters&label=Profile%20views&color=0e75b6&style=flat" alt="jossters" /> </p>
 <h1 align="center">Hi 👋, I'm Johnny Murillo</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jossters&label=Profile%20views&color=0e75b6&style=flat" alt="jossters" /> </p>
-
 <h3 align="center">
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- ⚡ Fun fact **I think Im funny**
+  🌱 I’m currently learning **Full Stack Web Development**
+  ⚡ Fun fact **I think Im funny**
 </h3>
 
 
